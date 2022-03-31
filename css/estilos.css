@@ -42,3 +42,8 @@ body
 	text-align:center;
 	padding:5px;
 }
+#container #logo
+{
+	width:70px;
+	vertical-align:middle;
+}
